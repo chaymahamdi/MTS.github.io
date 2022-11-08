@@ -8,6 +8,11 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+.scrolling-wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
 body {
   background: #fff;
   color: #2f3138;
@@ -124,7 +129,6 @@ h6 {
   text-transform: uppercase;
   text-align: center;
   font-weight: 700;
-  margin-bottom: 10px;
 }
 
 .section-header p {
@@ -1219,7 +1223,7 @@ h6 {
 --------------------------------------------------------------*/
 #subscribe {
   padding: 60px;
-  background: url(assets/img/subscribe-bg.jpg) center center no-repeat;
+  background: url(/img/subscribe-bg.jpg) center center no-repeat;
   background-size: cover;
   overflow: hidden;
   position: relative;
