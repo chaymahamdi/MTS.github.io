@@ -1,7 +1,7 @@
 # 🌐 _Metaverse Tunisian Summit Website_
 
 Welcome to the official GitHub repository for the **Metaverse Tunisian Summit** website. This website is built for the summit to showcase event details, schedules, speakers, and more.
-
+![Metaverse Tunisian Summit website](assets/metaverseTunisiaSummit.png)
 ### 📝 Website Overview
 The website contains the following sections:
 - 🏠 **Home**: Introduction to the event and key highlights.
